@@ -1,0 +1,2 @@
+前后端（java实现k-means聚类，python实现数据可视化展示）
+同时colab运行jupyter notebook对全球疫情和美国疫情进行分析
